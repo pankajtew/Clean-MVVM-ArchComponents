@@ -10,3 +10,4 @@
 *.jks
 *.tar
 keystore.properties
+*.properties
